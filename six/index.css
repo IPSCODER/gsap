@@ -1,0 +1,26 @@
+html {
+}
+
+body {
+  background: #000;
+}
+
+canvas {
+  width: 100%;
+  height: auto;
+  border: 2px solid #fff;
+}
+
+.canvas-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.spacer {
+  width: 100%;
+  height: 100vh;
+  background: coral;
+}

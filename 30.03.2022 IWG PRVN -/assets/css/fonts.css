@@ -1,0 +1,395 @@
+  @font-face {
+    font-family: 'metropolisblack';
+    src: url('../fonts/metropolis-black-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisblack_italic';
+    src: url('../fonts/metropolis-blackitalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-blackitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisbold';
+    src: url('../fonts/metropolis-bold-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisbold_italic';
+    src: url('../fonts/metropolis-bolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'metropolisextra_bold';
+    src: url('../fonts/metropolis-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisextra_bold_italic';
+    src: url('../fonts/metropolis-extrabolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-extrabolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisextra_light';
+    src: url('../fonts/metropolis-extralight-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisextra_light_italic';
+    src: url('../fonts/metropolis-extralightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-extralightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'metropolislight';
+    src: url('../fonts/metropolis-light-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolislight_italic';
+    src: url('../fonts/metropolis-lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolismedium';
+    src: url('../fonts/metropolis-medium-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolismedium_italic';
+    src: url('../fonts/metropolis-mediumitalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'metropolisregular';
+    src: url('../fonts/metropolis-regular-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisregular_italic';
+    src: url('../fonts/metropolis-regularitalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-regularitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolissemi_bold';
+    src: url('../fonts/metropolis-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolissemi_bold_italic';
+    src: url('../fonts/metropolis-semibolditalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'metropolisthin';
+    src: url('../fonts/metropolis-thin-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-thin-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'metropolisthin_italic';
+    src: url('../fonts/metropolis-thinitalic-webfont.woff2') format('woff2'),
+         url('../fonts/metropolis-thinitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_pro_condensedlight';
+    src: url('../fonts/mint_type_-_opinion_pro_condensed_light-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_condensed_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_pro_condensedLtIt';
+    src: url('../fonts/mint_type_-_opinion_pro_condensed_lightitalic-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_condensed_lightitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'opinion_pro_extracondenseLtIt';
+    src: url('../fonts/mint_type_-_opinion_pro_extracondensed_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_extracondensed_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_pro_extracondensedLt';
+    src: url('../fonts/mint_type_-_opinion_pro_extracondensed_light-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_extracondensed_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_prolight_italic';
+    src: url('../fonts/mint_type_-_opinion_pro_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_prolight';
+    src: url('../fonts/mint_type_-_opinion_pro_light-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'opinion_prolight_italic';
+    src: url('../fonts/mint_type_-_opinion_pro_light_italic-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_prolight';
+    src: url('../fonts/mint_type_-_opinion_pro_light-webfont.woff2') format('woff2'),
+         url('../fonts/mint_type_-_opinion_pro_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_pro_cnregular';
+    src: url('../fonts/opinion_pro_condensed_w05_bold-webfont.woff2') format('woff2'),
+         url('../fonts/opinion_pro_condensed_w05_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_promedium';
+    src: url('../fonts/opinion_pro_medium-webfont.woff2') format('woff2'),
+         url('../fonts/opinion_pro_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_proregular';
+    src: url('../fonts/opinion_pro_regular-webfont.woff2') format('woff2'),
+         url('../fonts/opinion_pro_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'opinion_prosemibold';
+    src: url('../fonts/opinion_pro_semibold-webfont.woff2') format('woff2'),
+         url('../fonts/opinion_pro_semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AvenirNectLTPro-Bold';
+    src: url('../fonts/AvenirNextLTPro-Bold.woff2') format('woff2'),
+         url('../fonts/AvenirNextLTPro-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AvenirNectLTPro-It';
+    src: url('../fonts/AvenirNextLTPro-It.woff2') format('woff2'),
+         url('../fonts/AvenirNextLTPro-It.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'AvenirNectLTPro-Regular';
+    src: url('../fonts/AvenirNextLTPro-Regular.woff2') format('woff2'),
+         url('../fonts/AvenirNextLTPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'AvertaCY-Light';
+    src: url('../fonts/AvertaCY-Light.woff2') format('woff2'),
+         url('../fonts/AvertaCY-Light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Averta-Regular';
+    src: url('../fonts/AvertaCY-Regular.woff2') format('woff2'),
+         url('../fonts/AvertaCY-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Averta-Semibold';
+    src: url('../fonts/AvertaCY-Semibold.woff2') format('woff2'),
+         url('../fonts/AvertaCY-Semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
